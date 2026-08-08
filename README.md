@@ -61,25 +61,19 @@ The project also includes an interactive Saudi dialect map and a Frequently Aske
 
 ## Home Page
 
-![Home Page](v1.png)
+![Home](images/home.png)
 
----
+## Chat Interface
 
-## Chatbot Interface
-
-*(Add chatbot screenshot here.)*
-
----
+![Chat](images/chatbot.png)
 
 ## Saudi Dialect Map
 
-![Saudi Dialect Map](zz.png)
+![Map](images/map.png)
 
----
+## FAQ
 
-## FAQ Page
-
-*(Add FAQ screenshot here.)*
+![FAQ](images/faq.png)
 
 ---
 
@@ -97,7 +91,7 @@ The project also includes an interactive Saudi dialect map and a Frequently Aske
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Nabrah/
@@ -115,7 +109,7 @@ Nabrah/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository
 
