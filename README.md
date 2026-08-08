@@ -97,14 +97,6 @@ This project was developed as part of a graduation team project.
 
 ---
 
-# Live Preview
-
-Currently not deployed.
-
-A live demo will be available in a future update.
-
----
-
 # How It Works
 
 1. The user enters a word or sentence.
