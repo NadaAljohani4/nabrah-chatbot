@@ -22,6 +22,15 @@ The project also includes an interactive Saudi dialect map and a Frequently Aske
 
 ---
 
+# Project Information
+
+- **Project Type:** Graduation Project
+- **Development:** Team Project
+- **My Role:** Web Application Development
+- **Year:** 2026
+
+---
+
 # Features
 
 - AI-powered Saudi dialect chatbot.
@@ -57,23 +66,41 @@ The project also includes an interactive Saudi dialect map and a Frequently Aske
 
 ---
 
+# My Contribution
+
+This project was developed as part of a graduation team project.
+
+### My Responsibilities
+
+- Developed the web application.
+- Implemented the chatbot functionality.
+- Built the Flask backend.
+- Integrated the local JSON dictionary.
+- Integrated Gemini AI.
+- Developed the frontend using HTML, CSS, and JavaScript.
+
+---
+
 # Screenshots
 
 ## Home Page
 
 ![Home](images/home.png)
 
-## Chat Interface
-
-![Chat](images/chatbot.png)
-
 ## Saudi Dialect Map
 
 ![Map](images/map.png)
 
-## FAQ
+## Questions
 
 ![FAQ](images/faq.png)
+
+---
+## Demo Video
+
+A short demonstration of Nabrah is available here:
+
+[📹 Nabrah Demo](demo/Nabrah-Demo.mp4)
 
 ---
 
