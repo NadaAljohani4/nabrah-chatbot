@@ -1,11 +1,11 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Flask](https://img.shields.io/badge/Flask-Web_App-black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E) ![Gemini AI](https://img.shields.io/badge/Gemini-AI-blueviolet)
 
 <p align="center">
-  <img src="v1.png" width="900">
+  <img src="images/home.png" width="900">
 </p>
 
 
-| Nabrah
+# Nabrah
 An AI-powered Saudi dialect chatbot that combines a local JSON dictionary with Gemini AI to explain, translate, and preserve Saudi dialect words through an interactive web application.
 
 ---
@@ -26,7 +26,7 @@ The project also includes an interactive Saudi dialect map and a Frequently Aske
 
 - **Project Type:** Graduation Project
 - **Development:** Team Project
-- **My Role:** Web Application Development
+- **My Role:** Software Development
 - **Year:** 2026
 
 ---
@@ -94,6 +94,14 @@ This project was developed as part of a graduation team project.
 ## Questions
 
 ![FAQ](images/faq.png)
+
+---
+
+# Live Preview
+
+Currently not deployed.
+
+A live demo will be available in a future update.
 
 ---
 
@@ -179,10 +187,6 @@ http://127.0.0.1:5000
 
 **Nada Baker Aljohani**
 
-Web Developer
+Digital College of Technology for Girls (TVTC) – Jeddah
 
-Graduation Project
-
-Digital College of Technology for Girls – Jeddah
-
-2026
+Web Developer - Graduation Year: 2026
