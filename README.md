@@ -96,13 +96,6 @@ This project was developed as part of a graduation team project.
 ![FAQ](images/faq.png)
 
 ---
-## Demo Video
-
-A short demonstration of Nabrah is available here:
-
-[📹 Nabrah Demo](demo/Nabrah-Demo.mp4)
-
----
 
 # How It Works
 
